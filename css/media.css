@@ -1349,8 +1349,6 @@
   .menu-header__body._active {
     transform: translate(0px, 0px);
     left: 0px;
-    z-index: 3;
-    overflow: auto;
   }
 
   .menu-header__list::after,
