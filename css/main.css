@@ -275,7 +275,7 @@ aside {
   width: 44px;
 
   height: 44px;
-  background: url("./images/sidebar/logo_stonks.svg") center no-repeat;
+  background: url("../images/sidebar/logo_stonks.svg") center no-repeat;
   background-size: 44px 44px;
 }
 
@@ -353,7 +353,7 @@ aside {
 
 .menu-header__link--arrow {
   padding: 0 45px 0 0;
-  background: url("./images/header/arrow.svg") right no-repeat;
+  background: url("../images/header/arrow.svg") right no-repeat;
 }
 
 .main {
@@ -482,7 +482,7 @@ aside {
   width: 22px;
   height: 11px;
   padding-left: 36px;
-  background: url("./images/service/arrow_white.svg") right no-repeat;
+  background: url("../images/service/arrow_white.svg") right no-repeat;
 }
 
 .text-block__button {
