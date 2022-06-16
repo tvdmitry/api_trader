@@ -40,7 +40,7 @@
 
   .top-block__background-image {
     position: absolute;
-    background: url("./images/functional/phone_func.png") center no-repeat;
+    background: url("../images/functional/phone_func.png") center no-repeat;
     width: 760px;
     background-size: 517px 544px;
     position: absolute;
@@ -51,7 +51,7 @@
 
   .bottom-block__background-image {
     position: absolute;
-    background: url("./images/functional/laptop_adaptive.png") center no-repeat;
+    background: url("../images/functional/laptop_adaptive.png") center no-repeat;
     width: 760px;
     background-size: 527px 406px;
     position: absolute;
@@ -896,7 +896,7 @@
   .header__icon::after {
     content: "";
     z-index: 8;
-    background: url("./images/footer/footer_icon.svg") center no-repeat;
+    background: url("../images/footer/footer_icon.svg") center no-repeat;
     background-size: 44px 44px;
   }
 
