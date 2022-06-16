@@ -273,9 +273,8 @@ aside {
   top: 39px;
   content: "";
   width: 44px;
-
+  background: url("../images/sidebar/logo_stonks.svg") center no-repeat;
   height: 44px;
-  background: url("./images/sidebar/logo_stonks.svg") center no-repeat;
   background-size: 44px 44px;
 }
 
